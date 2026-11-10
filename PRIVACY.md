@@ -31,9 +31,7 @@ exe Factory（以下「開発者」）は、アプリ「実包等管理帳簿」
 
 ## 6. お問い合わせ
 
-本ポリシーに関するお問い合わせは、このリポジトリの「Issues」からお願いします。
-
-https://github.com/y2sapporo/ammoledger-support/issues
+[お問い合わせページ（GitHub Issues）](https://github.com/y2sapporo/ammoledger-support/issues)からお問い合わせください。
 
 ## 7. 改定
 
